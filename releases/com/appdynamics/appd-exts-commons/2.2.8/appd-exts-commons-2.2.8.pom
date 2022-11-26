@@ -307,11 +307,11 @@
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
-            <url>https://github.com/Appdynamics/maven-repo/raw/master/releases</url>
+            <url>https://github.com/fna1ini/maven-repo/raw/master/releases</url>
         </repository>
     </repositories>
     <scm>
-        <connection>scm:git:https://github.com/Appdynamics/appd-exts-commons</connection>
+        <connection>scm:git:https://github.com/fna1ini/appd-exts-commons</connection>
       <tag>appd-exts-commons-2.2.8</tag>
   </scm>
 </project>
